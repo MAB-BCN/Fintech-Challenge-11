@@ -13,4 +13,4 @@ Step 3: Relate the search traffic to stock price patterns
 ![image](https://user-images.githubusercontent.com/111457110/212603701-f734e7d6-29a2-4f22-a8fd-14cae4746b27.png)
 
 Step 4: Create a time series model with Prophet
-![image](https://user-images.githubusercontent.com/111457110/212603772-85a2a320-fd33-4739-a4de-8719e84c9f61.png)
+![image](https://user-images.githubusercontent.com/111457110/212603892-b2b4761b-8130-45ae-8c89-8408fb5eca0c.png)
